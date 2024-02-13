@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas 👋
 ![](https://img.shields.io/github/followers/lucasfrederico.svg?style=social&label=Follow&maxAge=2592000)
 
-🔭 &nbsp;I'm currently working at **Senior Sistemas** and **LoverCraft LLC**
+🔭 &nbsp;I'm currently working at **LoverCraft LLC**
 
 ❤️ &nbsp;I love problem solving and leaning new techonology.
 
