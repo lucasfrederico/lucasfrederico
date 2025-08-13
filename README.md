@@ -5,7 +5,7 @@
 
 ❤️ &nbsp;I love problem solving and leaning new techonology.
 
-📫 &nbsp;How to reach me: contact@lucasfrederico.me
+📫 &nbsp;How to reach me: lucas.frederico@outlook.com.br
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasfrederico.com)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx6tLG_bAHW5Ap2DFJI-oQQ)
